@@ -12,7 +12,7 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 1. **Encodage d'un message dans une image :**
    - L'utilisateur doit sélectionner une image et écrire le texte qu'il veut dissimiler .
      
-     ![Dashboard Screenshot](/images/2.png)
+      ![Dashboard Screenshot](/images/2.png)
      
    - S'il clique sur le bouton Encoder, une fenêtre pop-up lui demande d'écrire un clé secret.
      
@@ -75,6 +75,5 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 
 ---
 ## **🔒 Certification SSL **
-
      ![Dashboard Screenshot](/images/TLS.png)
-
+---
