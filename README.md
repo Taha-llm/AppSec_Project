@@ -19,8 +19,11 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
    ![Dashboard Screenshot](/images/4.png)
 2. **Décodage d'un message :**
    - L'utilisateur peut charger une image depuis son appareil.
+     ![Dashboard Screenshot](/images/5.png)
    - Une clé de décryptage est requise pour extraire le message caché.
+     ![Dashboard Screenshot](/images/6.png)
    - Le message dissimulé est affiché si la clé est correcte.
+     ![Dashboard Screenshot](/images/7.png)
 
 3. **Authentification avec OAuth2 :**
    - Les utilisateurs doivent se connecter via OAuth2 pour accéder à l'application.
