@@ -10,11 +10,11 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 
 ## **Fonctionnalités principales**
 1. **Encodage d'un message dans une image :**
-   - L'utilisateur peut sélectionner une image où il veut dissimuler le texte écris par lui .
+   - L'utilisateur doit sélectionner une image et écrire le texte qu'il veut dissimiler .
      ![Dashboard Screenshot](/images/2.png)
-   - Un message texte est intégré dans l'image à l'aide de stéganographie.
+   - S'il clique sur le bouton Encoder, une fenêtre pop-up lui demande d'écrire un clé secret.
      ![Dashboard Screenshot](/images/3.png)
-   - L'image contenant le message est automatiquement téléchargée après l'encodage.
+   - S'il clique sur le bouton EncoderL'image contenant le message est automatiquement téléchargée après l'encodage.
    ![Dashboard Screenshot](/images/4.png)
 2. **Décodage d'un message :**
    - L'utilisateur peut charger une image depuis son appareil.
