@@ -59,12 +59,3 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 
 ---
 
-## **Structure du projet**
-```plaintext
-.
-├── index.html         # Fichier HTML principal
-├── style.css          # Fichier CSS pour le style
-├── script.js          # Logique principale en JavaScript
-├── manifest.json      # Configuration PWA
-├── sw.js              # Service Worker pour la gestion hors ligne
-└── README.md          # Documentation du projet
