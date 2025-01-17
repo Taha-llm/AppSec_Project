@@ -4,6 +4,7 @@
 Cette application est une Progressive Web App (PWA) qui permet de dissimuler un message texte dans une image, ainsi que de l'extraire ultérieurement. Le processus repose sur la modification des bits les moins significatifs (LSB) des pixels de l'image pour intégrer les données sans affecter visuellement l'image.
 
 Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que seuls les utilisateurs autorisés peuvent accéder à ses fonctionnalités.
+![Dashboard Screenshot](/images/1.png)
 
 ---
 
