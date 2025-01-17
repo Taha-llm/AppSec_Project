@@ -13,7 +13,9 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
    - L'utilisateur peut sélectionner une image.
    - Un message texte est intégré dans l'image à l'aide de stéganographie.
    - L'image contenant le message est automatiquement téléchargée après l'encodage.
-
+![Dashboard Screenshot](/images/2.png)
+![Dashboard Screenshot](/images/3.png)
+![Dashboard Screenshot](/images/4.png)
 2. **Décodage d'un message :**
    - L'utilisateur peut charger une image depuis son appareil.
    - Une clé de décryptage est requise pour extraire le message caché.
