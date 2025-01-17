@@ -11,25 +11,34 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 ## **Fonctionnalités principales**
 1. **Encodage d'un message dans une image :**
    - L'utilisateur doit sélectionner une image et écrire le texte qu'il veut dissimiler .
+     
      ![Dashboard Screenshot](/images/2.png)
+     
    - S'il clique sur le bouton Encoder, une fenêtre pop-up lui demande d'écrire un clé secret.
      
      ![Dashboard Screenshot](/images/3.png)
    - S'il clique sur le bouton ok , la dissimilation est faite avec succès et l'image contenant le message est automatiquement téléchargée après l'encodage.
+     
    ![Dashboard Screenshot](/images/4.png)
-2. **Décodage d'un message :**
-   - L'utilisateur peut charger une image depuis son appareil.
+   
+3. **Décodage d'un message :**
+   - Quant l'utilisateur clique sur le bouton Décoder , il peut charger l'image qu 'il veut depuis son appareil.
+     
      ![Dashboard Screenshot](/images/5.png)
-   - Une clé de décryptage est requise pour extraire le message caché.
+     
+   - Une clé de décryptage est requise pour extraire le message caché dans cette image.
+     
      ![Dashboard Screenshot](/images/6.png)
-   - Le message dissimulé est affiché si la clé est correcte.
+     
+   - Si le clé secret de l'image choisie est le meme utilisé dans la phase d'encodage, le message dissimulé est affiché. Sinon, il te dit clé incorrecte.
+     
      ![Dashboard Screenshot](/images/7.png)
 
-3. **Authentification avec OAuth2 :**
+4. **Authentification avec OAuth2 :**
    - Les utilisateurs doivent se connecter via OAuth2 pour accéder à l'application.
    - L'accès est sécurisé et permet de gérer des sessions personnalisées.
 
-4. **Support PWA :**
+5. **Support PWA :**
    - L'application peut être installée sur votre appareil comme une application native.
    - Fonctionne hors ligne après le premier chargement.
 
