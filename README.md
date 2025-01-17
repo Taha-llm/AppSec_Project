@@ -11,11 +11,11 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 ## **Fonctionnalités principales**
 1. **Encodage d'un message dans une image :**
    - L'utilisateur peut sélectionner une image.
+     ![Dashboard Screenshot](/images/2.png)
    - Un message texte est intégré dans l'image à l'aide de stéganographie.
+     ![Dashboard Screenshot](/images/3.png)
    - L'image contenant le message est automatiquement téléchargée après l'encodage.
-![Dashboard Screenshot](/images/2.png)
-![Dashboard Screenshot](/images/3.png)
-![Dashboard Screenshot](/images/4.png)
+   ![Dashboard Screenshot](/images/4.png)
 2. **Décodage d'un message :**
    - L'utilisateur peut charger une image depuis son appareil.
    - Une clé de décryptage est requise pour extraire le message caché.
