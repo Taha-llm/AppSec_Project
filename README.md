@@ -10,7 +10,7 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 
 ## **Fonctionnalités principales**
 1. **Encodage d'un message dans une image :**
-   - L'utilisateur peut sélectionner une image.
+   - L'utilisateur peut sélectionner une image où il veut dissimuler le texte écris par lui .
      ![Dashboard Screenshot](/images/2.png)
    - Un message texte est intégré dans l'image à l'aide de stéganographie.
      ![Dashboard Screenshot](/images/3.png)
