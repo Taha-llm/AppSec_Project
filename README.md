@@ -76,9 +76,8 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 ---
 
 ## **🔒 Certification SSL**
-Cette application est une Progressive Web App (PWA) qui permet de dissimuler un message texte dans une image, ainsi que de l'extraire ultérieurement. Le processus repose sur la modification des bits les moins significatifs (LSB) des pixels de l'image pour intégrer les données sans affecter visuellement l'image.
+AppSec assure une communication sécurisée grâce à la certification SSL. Vous trouverez ci-dessous une capture d'écran vérifiant la certification SSL :
 
-Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que seuls les utilisateurs autorisés peuvent accéder à ses fonctionnalités.
 ![Dashboard Screenshot](/images/TLS.png)
 
 ---
