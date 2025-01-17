@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔒 Projet AppSec</title>
+    <link rel="stylesheet" href="style.css">  <!-- Assurez-vous que le chemin vers le fichier CSS est correct -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔒 Projet AppSec</h1>
+            <p>Cacher et extraire des messages dans une image</p>
+        </header>
+        <main>
+            <section class="upload-section">
+                <label for="imageInput" class="custom-file-input">
+                    <span>📂 Choisir une Image</span>
+                    <input type="file" id="imageInput" accept="image/*">
+                </label>
+                <textarea id="message" placeholder="💬 Saisissez votre message ici..."></textarea>
+                <div class="buttons">
+                    <button onclick="encodeMessage()">🔐 Encoder</button>
+                    <button onclick="triggerDecode()">🔓 Décoder</button>
+                </div>
+            </section>
+            <section class="canvas-section">
+                <canvas id="canvas"></canvas>
+                <p id="output"></p>
+            </section>
+        </main>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
