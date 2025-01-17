@@ -74,4 +74,7 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
    - Cliquez sur "Ajouter à l'écran d'accueil" pour l'installer comme application native.
 
 ---
+## **🔒 Certification SSL **
+
+     ![Dashboard Screenshot](/images/TLS.png)
 
