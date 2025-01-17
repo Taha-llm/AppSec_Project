@@ -75,5 +75,7 @@ Elle inclut une authentification sécurisée basée sur OAuth2 pour garantir que
 
 ---
 ## **🔒 Certification SSL**
+     ![Dashboard Screenshot](/images/2.png)
+
      ![Dashboard Screenshot](/images/TLS.png)
 ---
